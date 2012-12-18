@@ -294,6 +294,12 @@ footer p
     top: 250px;
 }
 
+ul#social-media
+{
+    margin: 0;
+    padding: 0;
+}
+    
 ul#social-media li
 {
     display: inline-block;
@@ -450,6 +456,11 @@ ul#social-media li
     {
         height: 200px;
         padding: 0%;
+    }
+    
+    section#features
+    {
+        text-align: center;
     }
     
     ul#feature-list
