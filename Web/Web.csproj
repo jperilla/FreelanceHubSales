@@ -128,6 +128,7 @@
     <Content Include="Content\css\Style.css" />
     <Content Include="Content\images\facebook.png" />
     <Content Include="Content\images\gmail.png" />
+    <Content Include="Content\images\linedpaper.png" />
     <Content Include="Content\images\plaid.png" />
     <Content Include="Content\images\plaid_dark.png" />
     <Content Include="Content\images\relax.png" />

@@ -188,6 +188,7 @@ nav ul li a
 
 #content
 {    
+    background: url('../images/linedpaper.png') repeat;
     margin-right: 1.0416667%;
     margin-left: 1.0416667%;
     margin-bottom: 0%;
@@ -446,7 +447,8 @@ ul#social-media li
         height: 80px;
     }
     
-    #content {
+    #content 
+    {
         margin-bottom: 0;
         margin-left: 0%;
         margin-right: 0%;
