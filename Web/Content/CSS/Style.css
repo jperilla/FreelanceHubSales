@@ -253,7 +253,12 @@ section#features
     padding: 1.0416667%;
 }
 
-
+ul#feature-list
+{
+    margin: 0;
+    padding: 0;
+}
+    
 ul#feature-list li
 {
     display: inline-block;    
@@ -461,12 +466,6 @@ ul#social-media li
     section#features
     {
         text-align: center;
-    }
-    
-    ul#feature-list
-    {
-        margin: 0;
-        padding: 0;
     }
     
     ul#feature-list li
