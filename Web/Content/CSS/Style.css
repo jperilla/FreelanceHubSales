@@ -8,6 +8,7 @@ body
 img
 {
     max-width: 90%;
+    margin-top: 15px;
 }
 
 span.red {
@@ -246,7 +247,7 @@ section#features
 {
     height: 300px;
     width: 27.9166666%;
-    background: url('../images/plaid.png') repeat;
+    background-color: #cdd6d8;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
@@ -350,7 +351,6 @@ ul#social-media li
     {
         height: 300px;
         width: 96%;
-        background: url('../images/plaid.png') repeat;
         border-radius: 10px;
         -moz-border-radius: 10px;
         -webkit-border-radius: 10px;
