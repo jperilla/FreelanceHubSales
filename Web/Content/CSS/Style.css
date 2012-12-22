@@ -189,7 +189,7 @@ nav ul li a
 
 #content
 {    
-    background: url('../images/linedpaper.png') repeat;
+    background: url('../images/ricepaper2.png') repeat;
     margin-right: 1.0416667%;
     margin-left: 1.0416667%;
     margin-bottom: 0%;
@@ -292,6 +292,8 @@ footer
     color: #cdd6d8;
     padding-left: 1.0415%;
     padding-right: 1.0415%;
+    position: relative;
+    top: -16px;
 }
 
 footer p

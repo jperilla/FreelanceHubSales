@@ -126,13 +126,17 @@
   <ItemGroup>
     <Content Include="Content\css\Reset.css" />
     <Content Include="Content\css\Style.css" />
+    <Content Include="Content\images\bedge_grunge.png" />
+    <Content Include="Content\images\extra_clean_paper.png" />
     <Content Include="Content\images\facebook.png" />
     <Content Include="Content\images\gmail.png" />
     <Content Include="Content\images\linedpaper.png" />
     <Content Include="Content\images\logo_tiny.png" />
     <Content Include="Content\images\my_jobs.png" />
     <Content Include="Content\images\my_jobs_large.png" />
+    <Content Include="Content\images\natural_paper.png" />
     <Content Include="Content\images\relax.png" />
+    <Content Include="Content\images\ricepaper2.png" />
     <Content Include="plaid.png" />
     <Content Include="Content\images\plaid_dark.png" />
     <Content Include="Content\images\search_screenshot.png" />
