@@ -11,6 +11,12 @@ img
     margin-top: 15px;
 }
 
+a:link, a:hover, a:visited
+{
+    color: #b93831;
+    text-decoration: none;
+}
+
 span.red {
     color: #b93831;
 }
@@ -218,7 +224,7 @@ section#logo
 
 .gofer span
 {
-    color: #b93831;
+    color: #113D49;
 }
 
 div.message
