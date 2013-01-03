@@ -218,7 +218,7 @@ section#logo
 
 .gofer span
 {
-    color: #113D49;
+    color: #b93831;
 }
 
 div.message
@@ -271,6 +271,12 @@ ul#feature-list li
 
 .small_text {
     font-size: .4em;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.2em;
+}
+
+.medium_text {
+    font-size: 1em;
     font-family: 'Raleway', sans-serif;
     line-height: 1.2em;
 }

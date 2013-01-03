@@ -13,5 +13,13 @@ namespace Web.Controllers
             return View();
         }
 
+        //
+        // GET: /LandingPage/ThankYOU
+
+        public ActionResult ThankYou()
+        {
+            return View();
+        }
+
     }
 }

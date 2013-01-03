@@ -126,15 +126,11 @@
   <ItemGroup>
     <Content Include="Content\css\Reset.css" />
     <Content Include="Content\css\Style.css" />
-    <Content Include="Content\images\bedge_grunge.png" />
-    <Content Include="Content\images\extra_clean_paper.png" />
     <Content Include="Content\images\facebook.png" />
     <Content Include="Content\images\gmail.png" />
-    <Content Include="Content\images\linedpaper.png" />
     <Content Include="Content\images\logo_tiny.png" />
     <Content Include="Content\images\my_jobs.png" />
     <Content Include="Content\images\my_jobs_large.png" />
-    <Content Include="Content\images\natural_paper.png" />
     <Content Include="Content\images\relax.png" />
     <Content Include="Content\images\ricepaper2.png" />
     <Content Include="plaid.png" />
@@ -170,6 +166,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\LandingPage\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\LandingPage\ThankYou.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
